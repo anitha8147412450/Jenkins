@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="20527" started-at="2019-11-04T09:55:48Z" finished-at="2019-11-04T09:56:09Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="20527" started-at="2019-11-04T09:55:48Z" finished-at="2019-11-04T09:56:09Z">
+      <class name="scripts.TestLoginscptacti">
+        <test-method status="PASS" signature="disp()[pri:0, instance:scripts.TestLoginscptacti@282ba1e]" name="disp" is-config="true" duration-ms="9006" started-at="2019-11-04T15:25:48Z" finished-at="2019-11-04T15:25:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- disp -->
+        <test-method status="PASS" signature="TestLoginscptacti()[pri:0, instance:scripts.TestLoginscptacti@282ba1e]" name="TestLoginscptacti" duration-ms="9540" started-at="2019-11-04T15:25:57Z" finished-at="2019-11-04T15:26:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLoginscptacti -->
+        <test-method status="PASS" signature="cls()[pri:0, instance:scripts.TestLoginscptacti@282ba1e]" name="cls" is-config="true" duration-ms="1950" started-at="2019-11-04T15:26:07Z" finished-at="2019-11-04T15:26:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cls -->
+      </class> <!-- scripts.TestLoginscptacti -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
